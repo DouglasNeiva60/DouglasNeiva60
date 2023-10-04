@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**DouglasNeiva60/DouglasNeiva60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Engineer (full-time job) and 🎮 Game Developer (side-hustle)
 
-Here are some ideas to get you started:
+================================================================================
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔴 My Game Development roadmap....................🧠 [Kanban board](https://github.com/users/DouglasNeiva60/projects/1)
+
+🟢 My Development career's resume.................💻 [Notion page](https://douglasneiva60.notion.site/Douglas-Neiva-s-resume-CV-Engineer-Full-Stack-Developer-82acdd833e38479f994a560772bce92a)
+
+🔵 My Engineering career's resume.................⚡ [LinkedIn page](https://www.linkedin.com/in/douglasneiva50/)
+
+================================================================================
+
+“Have no fear of perfection, you'll never reach it”  ~  Salvador Dalí i Domènech
+
+🟡 [It's my favorite Work of Art](https://en.wikipedia.org/wiki/The_Persistence_of_Memory)
+
+================================================================================
